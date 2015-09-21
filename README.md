@@ -1,3 +1,0 @@
-# gitMKDOCS
-
-gitMKDOCS
